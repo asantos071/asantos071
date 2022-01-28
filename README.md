@@ -1,7 +1,7 @@
 - 👋 Mi Nombre es Antonio Santos 
 - 👀 Me interesan las nuevas tecnologías que fomentan la transformación digital y la optimización de equipos.
 - 🌱 Estoy aprendiendo GIT, Angular, Devops, Kubernetes, Docker, entre otras tecnoogías.
-- 💞️ Quiero generar instancias de aprendizaje común con otros colaboradores. 
+- 💞️ Me gustaria generar instancias de aprendizaje común con otros colaboradores. 
 
 
 <!---
